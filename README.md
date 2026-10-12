@@ -28,7 +28,7 @@ A responsive weather application built with JavaScript, HTML, and Tailwind CSS t
    cd weather-app
 
 ## Git Hub Link
-https://github.com/maggie-369
+https://github.com/mahigeethikachereddy
 
-## Gut Hub Student-Registration-System
-https://github.com/maggie-369/Student_Registration_System
+## GitHub weather-app
+https://github.com/mahigeethikachereddy/weather-app
